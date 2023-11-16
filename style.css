@@ -1,3 +1,11 @@
 h1{
-    color:red;
+    color:blue;
+}
+body{
+    /* background-color:rgb(0,255,255); */
+    /* background-color:#ff0000; */
+    background-color:gray;
+}
+box{
+    background-color:red;
 }
