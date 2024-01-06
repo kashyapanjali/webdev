@@ -1,0 +1,48 @@
+#box{
+    height:100px;
+    width:100px;
+    background-image:url("nature_photo.jpg");
+    background-size:cover;
+    color:white;
+    text-align:center;
+    position:fixed;
+    right:0px;
+    top:50px;
+}
+ul{
+    background-color:chocolate;
+    height:40px;
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+li{
+    list-style-type:none;
+    display:inline;
+    color:white;
+}
+a{
+    text-decoration:none;
+}
+#box1{
+    background-color:orangered;
+    width:300px;
+    height:300px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#box2{
+    background-color:whitesmoke;
+    width:200px;
+    height:200px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+#box3{
+    background-color:green;
+    width:100px;
+    height:100px;
+}

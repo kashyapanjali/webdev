@@ -1,0 +1,19 @@
+*{
+    font-family:'Times New Roman';
+} 
+h3{
+    text-align:center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+} 
+#id1{
+    height:100px;
+    width:100px;
+    background-color:green;
+    border-radius:50%;
+} 
